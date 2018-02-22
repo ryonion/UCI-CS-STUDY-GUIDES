@@ -1,5 +1,8 @@
 # UCI-CS-STUDY-GUIDES
 
+## ICS 32
+- [HW3: Python Game: Othello](https://github.com/YifanTian/ICS_32_game_of_othello)
+
 ## ICS 33 
 ### (or you can just read all Pattis's notes :stuck_out_tongue_closed_eyes:)
 - [wk0/file reading, list comprehension](https://github.com/ryonion/learn_python/blob/master/ics%2033%20wk0.ipynb)
