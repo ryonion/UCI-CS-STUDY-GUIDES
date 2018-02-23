@@ -15,5 +15,5 @@
 
 ## miscellaneous
 
-- [web dev](https://github.com/ryonion/UCI-CS-STUDY-GUIDES/blob/master/web%20dev%20big%20picture)
+- [web dev](https://github.com/ryonion/UCI-CS-STUDY-GUIDES/blob/master/web%20dev%20big%20picture.md)
 
