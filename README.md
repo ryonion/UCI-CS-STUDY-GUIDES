@@ -11,3 +11,8 @@
 ## CS 178
 - [Logistic regression](http://www.dataschool.io/guide-to-logistic-regression/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+
+
+## miscellaneous
+
+- [web dev](https://github.com/ryonion/UCI-CS-STUDY-GUIDES/blob/master/web%20dev%20big%20picture)
