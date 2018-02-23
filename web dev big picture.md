@@ -31,3 +31,6 @@
 
 - 非常多优秀的tutorials
 - 其中一个是 "New Boston"的教程
+
+### gragh:
+[client-server interactions](https://docs.google.com/drawings/d/1WvtXflHhHoZAAm0ROC6T7pDn-NMgY_rvv2lJWE-GAHg/edit?usp=sharing)
