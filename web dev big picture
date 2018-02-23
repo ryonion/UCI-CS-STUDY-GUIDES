@@ -11,6 +11,7 @@ browser上的点击等操作都是向server发出request，然后server回复一
 html （W3C上学一下）
 css （可以找Bootstrap相关教程）
 css-flexbox (非常简洁容易理解的layout coding)
+[Flexbox Tutorial (CSS): Real Layout Examples](https://www.youtube.com/watch?v=k32voqQhODc)
 
 - back-end：
 
@@ -18,7 +19,8 @@ nodejs -- 目前最流行的服务器端JavaScript运行环境
 express js -- nodejs 基础上的服务器框架
 ejs 或者 React -- JavaScript Template Engine (服务器向客户端发送网页时用) 
 MongoDB -- 方便扩展的数据库管理系统
- 
+[node js for beginners](https://www.youtube.com/watch?v=-u-j7uqU7sI&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
+
 - software:
 
 Brackets: front-end
