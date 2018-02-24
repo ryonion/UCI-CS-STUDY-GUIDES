@@ -11,7 +11,7 @@
 ## CS 178
 - [Logistic regression](http://www.dataschool.io/guide-to-logistic-regression/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-*extra*
+#### *extra*
 - [LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) (You don't have to know it but good to know how it works)
 - [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI)
 ## miscellaneous
