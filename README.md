@@ -20,6 +20,7 @@
 - [run xgboost on jupyter notebook on windows 10 (Chinese)](http://blog.csdn.net/xizero00/article/details/73008330)
 - [working with multiple conda environments](https://stackoverflow.com/questions/37085665/in-which-conda-environment-is-jupyter-executing)
 - [install keras and tensorflow with Anaconda](http://inmachineswetrust.com/posts/deep-learning-setup/)
+- [what is max pooling](https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks)
 
 ## miscellaneous
 - [web dev](https://github.com/ryonion/UCI-CS-STUDY-GUIDES/blob/master/web%20dev%20big%20picture.md)
